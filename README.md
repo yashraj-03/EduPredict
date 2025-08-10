@@ -38,7 +38,7 @@ The system is designed for **schools, teachers, and education analysts** to make
 ## Project Structure
 ```
 EduPredict/
-├── data/ # datasets (ignored in Git)
+├── data/ # datasets 
 │ ├── raw/
 │ └── processed/
 ├── notebooks/ # Jupyter notebooks
@@ -50,7 +50,7 @@ EduPredict/
 │ ├── train_model.py
 │ ├── recommend.py
 │ └── utils.py
-├── models/ # saved ML models (ignored in Git)
+├── models/ # saved ML models 
 ├── tests/ # unit tests
 ├── requirements.txt # dependencies
 ├── .gitignore
